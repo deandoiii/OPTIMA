@@ -1,0 +1,14 @@
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\bin\Debug\net7.0\OPTIMA.exe
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\bin\Debug\net7.0\OPTIMA.deps.json
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\bin\Debug\net7.0\OPTIMA.runtimeconfig.json
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\bin\Debug\net7.0\OPTIMA.dll
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\bin\Debug\net7.0\OPTIMA.pdb
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\OPTIMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\OPTIMA.AssemblyInfoInputs.cache
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\OPTIMA.AssemblyInfo.cs
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\OPTIMA.csproj.CoreCompileInputs.cache
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\OPTIMA.dll
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\refint\OPTIMA.dll
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\OPTIMA.pdb
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\OPTIMA.genruntimeconfig.cache
+C:\Users\Dawson\source\repos\OPTIMA\OPTIMA\obj\Debug\net7.0\ref\OPTIMA.dll
